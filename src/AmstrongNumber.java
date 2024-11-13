@@ -1,6 +1,6 @@
 public class AmstrongNumber {
     public static void main(String[] args) {
-        int ac = 152;
+        int ac = 154;
       int rs =  ams(ac);
         if (ac == rs){
             System.out.println("True");
